@@ -1,3 +1,5 @@
+
+--http://mtkcode.blogspot.com/2014/08/parse-json-string-by-sql-script.html
 CREATE FUNCTION [dbo].[parseJSON]( @JSON NVARCHAR(MAX))
 /*
 -- Create by Phil Factor	15 November 2010
